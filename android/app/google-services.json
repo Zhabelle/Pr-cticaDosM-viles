@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1049523998764",
+    "project_id": "moviles2022-cf4f3",
+    "storage_bucket": "moviles2022-cf4f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049523998764:android:a51954a9529a979fe38189",
+        "android_client_info": {
+          "package_name": "com.example.app_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049523998764-lrmddcle37u122rqibqdbl0622r6hrpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcwcV1szsn7huVaLB-6imtryO8j4N4h68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049523998764-lrmddcle37u122rqibqdbl0622r6hrpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049523998764:android:9600f5b45b2c1792e38189",
+        "android_client_info": {
+          "package_name": "com.example.prados"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049523998764-bjk3vdfr26qs0tmmqqnmqgmsaf8fc334.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prados",
+            "certificate_hash": "8cacf7389c1bbd92a9663dad0dd6b199862102d9"
+          }
+        },
+        {
+          "client_id": "1049523998764-lrmddcle37u122rqibqdbl0622r6hrpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcwcV1szsn7huVaLB-6imtryO8j4N4h68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049523998764-lrmddcle37u122rqibqdbl0622r6hrpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
